@@ -16,7 +16,7 @@ setup(name='tedi',
           'pytest-cov==2.5.1',
           'pytest-flake8==0.9.1',
           'pytest-mypy==0.3.0',
-          'pytest==3.4.0',
+          'pytest==9.0.3',
       ],
       setup_requires=['pytest-runner==4.2.0'],
       entry_points='''
